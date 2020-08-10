@@ -1,0 +1,17 @@
+Nakkyu (1):
+      test pull request
+
+Taeung Song (12):
+      Add README file
+      Add knapsack problem PDF
+      packing knapsack: Basic code solving this question
+      packing knapsack: Change basic code
+      packing knapsack: Rename packing_knapsack to pack_knapsack
+      packing knapsack: Input & Output
+      packing knapsack: Add test script
+      packing knapsack: Add test script generator
+      packing knapsack: Implement code to solve this question
+      test git-pull-request
+      New version git-training
+      Add v3 PDF
+
